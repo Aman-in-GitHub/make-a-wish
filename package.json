@@ -1,6 +1,6 @@
 {
   "name": "make-a-wish",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A fully customizable npm package for wishing users based on the time of day and holidays",
   "main": "index.js",
   "type": "module",
